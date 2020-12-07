@@ -1,6 +1,6 @@
 <html>
      <h2>edit form</h2>
-     <form action="Mission_3-5.php" method="post">
+     <form action="Mission_5-1.php" method="post">
         <p>
         <select name="number">
         <?php
@@ -11,7 +11,7 @@
         </select>
         </p>
         
-        <input type="submit" name="edit" value="edit">
+        <input type="submit" name="edit" value="ok">
 
     </form>
     

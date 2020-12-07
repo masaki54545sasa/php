@@ -1,6 +1,6 @@
 <html>
  <h2>form delete</h2>
-     <form action="Mission_3-5.php" method="post">
+     <form action="Mission_5-1.php" method="post">
         <p>
         <select name="number">
         <?php
